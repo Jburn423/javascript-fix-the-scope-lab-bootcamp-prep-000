@@ -30,4 +30,4 @@ var theFunk = funkyFunction();
 
 theFunk;
 
-function();
+funkyFunction();
